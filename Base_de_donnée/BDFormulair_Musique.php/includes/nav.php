@@ -16,6 +16,7 @@
                         <a class="nav-recherche" href="#">Recherche</a>
                     </li>
                     <br>
+                    <br>
                     <li class="nav-item">
                         <a class="nav-Inserer" href="./forms/formInsererGroupe.php">Insérer un groupe </a>
                     </li>
